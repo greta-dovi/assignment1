@@ -2,7 +2,7 @@ venv
 aisdk-*
 *.pyc
 vessels
-locations.csv
+location.csv
 mmsi.csv
 overlapping*
 speed*
