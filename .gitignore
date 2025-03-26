@@ -1,8 +1,0 @@
-venv
-aisdk-*
-*.pyc
-vessels
-locations.csv
-mmsi.csv
-overlapping*
-speed*
